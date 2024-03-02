@@ -4,8 +4,6 @@
 - 📫 How to reach me **o.benhammou2967@uca.ac.ma**
 
 - ⚡ Fun fact **I CODE USING C LOL**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
