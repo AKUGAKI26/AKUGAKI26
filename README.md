@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm AKUGAKI26</h1>
+<h1 align="center">Hi, I'm AKU</h1>
 <h3 align="center">IT STUDENT !</h3>
 
 - 📫 How to reach me **o.benhammou2967@uca.ac.ma**
 
-- ⚡ Fun fact **I CODE USING C LOL**
+- ⚡ Fun fact **I CODE USING C**
 <p align="left">
 </p>
 
